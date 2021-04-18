@@ -1,0 +1,18 @@
+
+security_unique_values = ['access control system',
+ 'alarm system',
+ 'checkpoint',
+ 'closed area',
+ 'concierge',
+ 'fenced area',
+ 'fire system',
+ 'high-quality and safe playgrounds.',
+ 'intercom',
+ 'nan',
+ 'parking',
+ 'provided',
+ 'round the clock protected area',
+ 'round the clock security',
+ 'secure area',
+ 'the area with landscaping and the use of small architectural forms',
+ 'video surveillance']

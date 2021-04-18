@@ -1,0 +1,11 @@
+ipykernel
+pandas==1.2.3
+tables= 
+sklearn
+google_trans_new
+requests
+seaborn
+geopandas 
+geopy
+transliterate
+xgboost
