@@ -206,5 +206,7 @@ pip-selfcheck.json
 
 pml8/
 data/
+output/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,visualstudiocode,virtualenv
+
